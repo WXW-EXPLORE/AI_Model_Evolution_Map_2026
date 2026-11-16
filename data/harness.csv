@@ -1,0 +1,19 @@
+name,date,kind,skill,desc,url,origin
+LangChain,2022-10,开发框架,链式编排,LLM 应用链与工具封装生态。,https://github.com/langchain-ai/langchain,LangChain
+LlamaIndex,2022-11,数据/RAG,检索数据,数据连接与索引/RAG 系统。,https://github.com/run-llama/llama_index,LlamaIndex
+AutoGPT,2023-03,Agent Harness,自治执行,早期自治 Agent 实验系统。,https://github.com/Significant-Gravitas/AutoGPT,社区
+Semantic Kernel,2023-03,开发框架,编排/插件,微软企业级智能体开发编排。,https://github.com/microsoft/semantic-kernel,Microsoft
+AutoGen,2023-09,多Agent,群体协作,多 Agent 通信与协作系统。,https://github.com/microsoft/autogen,Microsoft
+CrewAI,2023-11,多Agent,角色协作,以角色和任务为中心的多 Agent 框架。,https://github.com/crewAIInc/crewAI,CrewAI
+LangGraph,2024-01,开发框架,有状态执行,图/状态机 Agent 工作流。,https://github.com/langchain-ai/langgraph,LangChain
+SWE-agent,2024-04,Agent Harness,代码修复,基准驱动的软件工程代理框架。,https://github.com/SWE-agent/SWE-agent,Princeton
+DSPy,2024-01,开发框架,提示优化,声明式 LLM 程序与优化。,https://github.com/stanfordnlp/dspy,Stanford
+OpenHands,2024-08,Agent Harness,通用软件工程,开放代码执行、文件读写的编码代理。,https://github.com/All-Hands-AI/OpenHands,OpenHands
+Aider,2023-05,Agent Harness,结对编程,终端/仓库级代码协作，repo map。,https://github.com/Aider-AI/aider,社区
+smolagents,2024-12,开发框架,轻量工具调用,短小可扩展的代理工具调用框架。,https://github.com/huggingface/smolagents,Hugging Face
+OpenAI Agents SDK,2025-03,开发框架,执行/追踪,Agent、handoff、guardrail、tracing。,https://github.com/openai/openai-agents-python,OpenAI
+Claude Code,2025-02,Agent Harness,软件工程,终端任务执行、工具使用、仓库与上下文管理。,https://github.com/anthropics/claude-code,Anthropic
+Google ADK,2025-04,开发框架,Agent 构建,Google Agent Development Kit。,https://google.github.io/adk-docs/,Google
+Codex CLI,2025-04,Agent Harness,软件工程,本地沙箱与代码执行代理。,https://github.com/openai/codex,OpenAI
+Gemini CLI,2025-06,Agent Harness,软件工程,开源终端编程代理。,https://github.com/google-gemini/gemini-cli,Google
+mini-SWE-agent,2025-08,Agent Harness,代码修复,极简可重复 Shell-loop 研究基线。,https://github.com/SWE-agent/mini-swe-agent,Princeton

@@ -1,0 +1,19 @@
+name,date,kind,desc,url
+MMLU,2020-09,知识,多学科知识，较易饱和；需要控制污染与提示格式。,https://github.com/hendrycks/test
+HumanEval,2021-07,代码,代码函数生成，Pass@k 需明确采样与执行协议。,https://github.com/openai/human-eval
+GSM8K,2021-10,数学,小学数学文本题，较易饱和。,https://github.com/openai/grade-school-math
+BIG-bench / BBH,2022-06,知识,复杂能力综合测评，任务异质性大。,https://github.com/google/BIG-bench
+HELM,2022-11,评测平台,统一情境中的多指标模型评测。,https://crfm.stanford.edu/helm/
+MT-Bench,2023-06,对话,多轮对话，LLM-as-a-judge 风险。,https://github.com/lm-sys/FastChat
+SWE-bench,2023-10,Agent系统,GitHub issue 修复；Agent/harness 与模型都影响成绩。,https://www.swebench.com/
+GPQA,2023-11,科学,研究生级专业问答。,https://github.com/idavidrein/gpqa
+MMMU,2023-11,多模态,大学级多学科图文理解。,https://mmmu-benchmark.github.io/
+GAIA,2023-11,Agent系统,通用助手真实任务。,https://huggingface.co/gaia-benchmark
+MMLU-Pro,2024-06,知识,更具挑战的多选专家题。,https://github.com/TIGER-AI-Lab/MMLU-Pro
+LiveCodeBench,2024-03,代码,动态时间窗代码能力评测。,https://livecodebench.github.io/
+OSWorld,2024-04,Agent系统,真实 GUI 计算机交互任务。,https://os-world.github.io/
+τ-bench,2024-06,Agent系统,客户服务工具调用长任务与政策遵循。,https://github.com/sierra-research/tau-bench
+BFCL,2024-07,工具调用,函数调用结构和参数正确性。,https://gorilla.cs.berkeley.edu/leaderboard.html
+Humanity’s Last Exam,2025-01,科学,高难专家题；有工具和无工具分开评。,https://lastexam.ai/
+Terminal-Bench,2025-04,Agent系统,终端任务，环境与评测 harness 决定结果。,https://www.tbench.ai/
+BrowseComp,2025-04,Agent系统,深度网络搜索与查证，工具预算敏感。,https://openai.com/index/browsecomp/
